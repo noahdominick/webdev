@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(210, 216, 218);
+}
+
+.sitetitle{
+    font-size: 40px;
+    background-color: #dcdcdc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+/*navigation style*/
+.navbar {
+    overflow: hidden;    
+    top: 80px;
+    width: 100%;
+  }
+
+  .navbar a {
+    float: left;
+    display: block;
+    color: #214fce;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .navbar a:hover {
+    color: #0b006d;
+    background-color: #1710a2;
+  }
+  .container {
+    padding: 18px;
+    margin-top: 25px;
+    height: 2000px;
+  }
+  .button {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    font-weight: bold; 
+    color: #000000;
+  }
+
+  .threeColumns {
+    column-count: 3;
+    column-gap: 21px;
+    font-size: 14pt;
+  }
+  html {
+    background: url(blue.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
