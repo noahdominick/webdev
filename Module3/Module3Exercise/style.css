@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    background-image:url('nft1.png')
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/*:link is a pseudo-class for the <a> tag*/
+a:link {
+   color:green;
+}
+
+a:visited{
+    color:rgb(250, 1, 43);
+}
+
+a:hover {
+    color:darkgreen;
+}
+
+a:focus {
+    color:chocolate;
+}
+
+a:active{
+    color:goldenrod
+}
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}

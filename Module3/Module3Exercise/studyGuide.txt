@@ -1,0 +1,16 @@
+chapter 7 study guide 
+
+1. to add links to other sites on your page, you do something like the following
+
+<a href="http://www.supercheapsuits.com/~billybob/">Billy Bob's site</a>>
+
+
+the link to the website is between the ' and'. the text you want display is on your site  is Billy bos's site. this text can be anything.
+
+
+2. TO create links on the same page, you can use anchor links.For example
+you can do the folowing:
+<a href="#credits">About the Authors</a>
+
+Type this at the beginning of the credits section:
+<p id= "credits">Credits...</p>
